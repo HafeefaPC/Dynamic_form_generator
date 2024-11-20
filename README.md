@@ -126,7 +126,7 @@ Here's a sample schema to get started:
 
 The application is deployed using **Vercel**. Access it here:
 
-[https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)
+[https://dynamic-form-generator-eta.vercel.app/](https://dynamic-form-generator-eta.vercel.app/)
 
 ---
 
@@ -135,17 +135,24 @@ The application is deployed using **Vercel**. Access it here:
 For any questions or support, contact me at:
 
 - **Email**: hafeefapc2003@gmail.com
-- **GitHub**: [https://github.com/your-username](https://github.com/HafeefaPC)
+- **GitHub**: [https://github.com/HafeefaPC](https://github.com/HafeefaPC)
 
 ---
 
-## Screenshots (Optional)
+## Screenshots 
 
 Include screenshots of your application showcasing:
 
-- Split-screen layout.
-- Form preview.
-- Validation messages.
-- Mobile responsiveness.
+- **Split-screen layout**:
+  ![Split-Screen Layout](images/split-screen-layout.png)
+
+- **Form preview**:
+  ![Form Preview](images/form-preview.png)
+
+- **Validation messages**:
+  ![Validation Messages](images/validation-messages.png)
+
+- **Mobile responsiveness**:
+  ![Mobile Responsiveness](images/mobile-responsiveness.png)
 
 
