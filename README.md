@@ -146,12 +146,6 @@ Include screenshots of your application showcasing:
 - **Split-screen layout**:
   ![Split-Screen Layout](images/split-screen-layout.png)
 
-- **Form preview**:
-  ![Form Preview](images/form-preview.png)
-
-- **Validation messages**:
-  ![Validation Messages](images/validation-messages.png)
-
 - **Mobile responsiveness**:
   ![Mobile Responsiveness](images/mobile-responsiveness.png)
 
